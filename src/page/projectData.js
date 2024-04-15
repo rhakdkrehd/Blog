@@ -8,7 +8,7 @@ const ProjectData = [
       description: "코카콜라 웹 사이트",
       image: Coke,
       alt: "coca cola",
-      link: "https://rhakdkrehd.github.io/Coca-Cola/index.html"
+      link: "https://rhakdkrehd.github.io/Coke/"
     },
     {
       title: "Harley",

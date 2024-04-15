@@ -24,10 +24,11 @@ const About = () => {
             <ul>
                 <li>
                     <h2>About</h2>
+                    <hr/>
                 </li>
                 <li>
                     <h4>
-                        저는 벽돌처럼 쌓아가며 성장하는 개발자입니다. <br/>
+                        벽돌처럼 쌓아가며 성장하는 개발자입니다. <br/>
                         새로운 기술과 도전을 즐기며 끊임없이 발전하는 것을 목표로 삼고 있습니다. <br/>
                         협업을 중요시하며 항상 열린 마음으로 <br/> 
                         새로운 아이디어를 수용하고 발전시키는 데에 힘쓰고 있습니다. <br/>
@@ -38,6 +39,7 @@ const About = () => {
                     <h3>
                         E-mail
                     </h3>
+                    <hr/>
                     <a href="mailto:mins0159@naver.com" target="_blank" rel="noreferrer">
                         mins0159@naver.com
                     </a>
@@ -46,6 +48,7 @@ const About = () => {
                     <h3>
                         Skill
                     </h3>
+                    <hr/>
                     <ul className='skillBox'>
                         <li>
                             <img src = {PsImg} />

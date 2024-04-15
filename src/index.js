@@ -12,10 +12,7 @@ import Project from './page/project';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Nav/>
-    <MainPage/>
-    <About />
-    <Project />
+    <App/>
   </React.StrictMode>
 );
 

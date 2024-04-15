@@ -1,20 +1,21 @@
 import React from 'react'
 
-import "./mainPage.css"
+import "./banner.css"
 
-const MainPage = () => {
+import BackImg from '../img/main.png'
+import MainMoon from "../img/mainMoon.png"
+
+const Banner = () => {
   return (
     <div className='banner'>
-      <h1 className="textNe" data-text="Nadeesha Eranjan">
-            HELLO MY PORTFOLIO
-      </h1>
-      {/* <div>
-        <h1 className="textNe" data-text="Nadeesha Eranjan">
-          HELLO MY PORTFOLIO
-        </h1>
-      </div> */}
+      <img className='backImg' src={BackImg} alt='Back img' />
+      <img className='moon' src={MainMoon} alt='Moon'/>
+      <span>MIN</span>
+      <p>
+        Web Developer Portfolio
+      </p>
     </div>
   )
 }
 
-export default MainPage
+export default Banner

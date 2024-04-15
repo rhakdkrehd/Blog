@@ -1,7 +1,13 @@
-body{
+*{
+    margin:0;
+    padding:0;
     color: white;
     font-family: NotoSansCJKkr;
-    background-color: #303030;
+}
+
+body{
+    /* background-color: #303030; */
+    background-color: black;
 }
 
 ul,li{
@@ -17,14 +23,31 @@ a:hover{
     text-decoration: none !important;
 }
 
+@media all and (min-width:1200px) {
+    nav{
+        height: 70px;
+    }
+}
+
+@media (max-width:1199px) and (min-width:760px) {
+    nav{
+        height: 40px;
+    }
+}
+
+@media (max-width:759px) {
+    nav{
+        height: 40px;
+    }
+}
+
 nav{
-    width: 100vw;
-    height: 70px;
+    width: 100%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 0 36px;
+    /* padding: 0 36px; */
     z-index: 3;
     position : fixed;
     top : 0;
