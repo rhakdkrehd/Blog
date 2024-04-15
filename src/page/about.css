@@ -1,0 +1,66 @@
+img{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    object-fit: cover;
+}
+
+.container{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.contatsLeft{
+    width: 320px;
+    height: 400px;
+    margin-right: 50px;
+}
+
+.contantsRight{
+    font-size: 1.2rem;
+}
+
+.emailBox p{
+    font-weight: 600;
+}
+
+.skillBox{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+}
+
+.skillBox li{
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+@media all and (min-width:780px) and (max-width: 1920px) {
+    .skillBox li{
+        width: 5rem;
+        height: 5rem;
+    }
+}
+
+@media (max-width: 779px) {
+    .contatsLeft{
+        width: 240px;
+        height: 300px;
+        margin-bottom: 25px;
+    }
+    
+    .container{
+        height: auto;
+        flex-direction: column;
+    }
+
+    .skillBox li{
+        width: 3rem;
+        height: 3rem;
+    }
+}
