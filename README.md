@@ -4,6 +4,7 @@
 
 # ver 1.2 24.04.17 <br/>
 Porject 컴포먼트 리 디자인
+컴포먼트들 반응형 추가 작업
 
 # ver 1.1 24.04.16 <br/>
 Porject 하드코딩을 PorjetData 컴포먼트로 동적 관리
