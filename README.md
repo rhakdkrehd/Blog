@@ -1,9 +1,8 @@
-<img 
-    src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white&amp;"
-/>
+# 사용언어
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white&amp;"/>
 
 # ver 1.2 24.04.17 <br/>
-Porject 컴포먼트 리 디자인
+Porject 컴포먼트 리 디자인 <br/>
 컴포먼트들 반응형 추가 작업
 
 # ver 1.1 24.04.16 <br/>
