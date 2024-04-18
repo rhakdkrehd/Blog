@@ -1,4 +1,4 @@
-# 사용언어
+# 사용된 스킬
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white&amp;"/>
 
 # 24.04.17 <br/>
