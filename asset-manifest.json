@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Blog/static/css/main.46346204.css",
-    "main.js": "/Blog/static/js/main.0d98bd98.js",
+    "main.js": "/Blog/static/js/main.f7a00796.js",
     "static/js/453.952a215a.chunk.js": "/Blog/static/js/453.952a215a.chunk.js",
-    "static/media/Disneyplus.png": "/Blog/static/media/Disneyplus.d8290b41c4df800a5b20.png",
     "static/media/ME.jpg": "/Blog/static/media/ME.0506e03b16c3b9ef9b64.jpg",
     "static/media/main.png": "/Blog/static/media/main.56d8c59094328f3c8a80.png",
     "static/media/mainMoon.png": "/Blog/static/media/mainMoon.84ee89684dcb40f5f210.png",
     "static/media/coke.png": "/Blog/static/media/coke.6dc933e99306c8be8adf.png",
+    "static/media/Disneyplus.png": "/Blog/static/media/Disneyplus.e107f8bb04aef4d3d8e3.png",
     "static/media/harley.png": "/Blog/static/media/harley.18f043586b96066d78f0.png",
     "static/media/REACT.png": "/Blog/static/media/REACT.87146ced16badf3046fd.png",
     "static/media/JQUERY.png": "/Blog/static/media/JQUERY.c64e92b77695c206f21e.png",
@@ -20,11 +20,11 @@
     "static/media/JS.png": "/Blog/static/media/JS.dafbcd7fb56fcfce553c.png",
     "index.html": "/Blog/index.html",
     "main.46346204.css.map": "/Blog/static/css/main.46346204.css.map",
-    "main.0d98bd98.js.map": "/Blog/static/js/main.0d98bd98.js.map",
+    "main.f7a00796.js.map": "/Blog/static/js/main.f7a00796.js.map",
     "453.952a215a.chunk.js.map": "/Blog/static/js/453.952a215a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46346204.css",
-    "static/js/main.0d98bd98.js"
+    "static/js/main.f7a00796.js"
   ]
 }
