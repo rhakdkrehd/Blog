@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Blog/static/css/main.10588c72.css",
-    "main.js": "/Blog/static/js/main.feb2f7da.js",
+    "main.css": "/Blog/static/css/main.46346204.css",
+    "main.js": "/Blog/static/js/main.0d98bd98.js",
     "static/js/453.952a215a.chunk.js": "/Blog/static/js/453.952a215a.chunk.js",
+    "static/media/Disneyplus.png": "/Blog/static/media/Disneyplus.d8290b41c4df800a5b20.png",
     "static/media/ME.jpg": "/Blog/static/media/ME.0506e03b16c3b9ef9b64.jpg",
     "static/media/main.png": "/Blog/static/media/main.56d8c59094328f3c8a80.png",
     "static/media/mainMoon.png": "/Blog/static/media/mainMoon.84ee89684dcb40f5f210.png",
@@ -18,12 +19,12 @@
     "static/media/XD.png": "/Blog/static/media/XD.f6235efad747eeec89b5.png",
     "static/media/JS.png": "/Blog/static/media/JS.dafbcd7fb56fcfce553c.png",
     "index.html": "/Blog/index.html",
-    "main.10588c72.css.map": "/Blog/static/css/main.10588c72.css.map",
-    "main.feb2f7da.js.map": "/Blog/static/js/main.feb2f7da.js.map",
+    "main.46346204.css.map": "/Blog/static/css/main.46346204.css.map",
+    "main.0d98bd98.js.map": "/Blog/static/js/main.0d98bd98.js.map",
     "453.952a215a.chunk.js.map": "/Blog/static/js/453.952a215a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10588c72.css",
-    "static/js/main.feb2f7da.js"
+    "static/css/main.46346204.css",
+    "static/js/main.0d98bd98.js"
   ]
 }
